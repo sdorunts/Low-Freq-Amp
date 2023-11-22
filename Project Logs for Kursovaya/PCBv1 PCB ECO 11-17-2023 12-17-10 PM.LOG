@@ -1,0 +1,278 @@
+Added Component: Designator=*1(TO-247)
+Added Component: Designator=*2(TO-92-A)
+Added Component: Designator=*3(TO-92-A)
+Added Component: Designator=*4(TO-247)
+Added Component: Designator=*5(TO-220)
+Added Component: Designator=C1(Cap 220U/100V)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Cap 1u/63V)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Cap 220nF)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Cap 220U/100V)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Cap 470n)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Cap 10u/25V)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Cap 220p)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C8(Cap 100n/100V)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C9(Cap 100p)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C10(Cap 470u/10V)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C11(Cap 220U/100V)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=C12(Cap 1u/63V)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Res 1W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Res 1W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Res 1W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Res 0.25W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Res 1W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Res 0.25W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Res 0.25W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Res 0.25W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Res 1W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R10(Res 0.25W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R11(Res 0.25W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DO-35)
+Add component (AddParameter): Name = "Published"; Value = "20.05.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(DO-27)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(DO-27)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(DO-27)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(DO-27)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????"; VariantName = "[No Variations]"
+Added Component: Designator=VD8(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????"; VariantName = "[No Variations]"
+Added Component: Designator=X1(EHK2V-02P)
+Add component (AddParameter): Name = "CommentText"; Value = ""??????""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://pcbdesigner.ru/downloads/connectors/EHK2V-XXP-DINKLE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Dinkle Enterprise"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EHK2V-02P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 9.53mm, 300VAC, 25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X2(EHK2V-02P)
+Add component (AddParameter): Name = "CommentText"; Value = ""??????""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://pcbdesigner.ru/downloads/connectors/EHK2V-XXP-DINKLE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Dinkle Enterprise"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EHK2V-02P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 9.53mm, 300VAC, 25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X3(EHK2V-02P)
+Add component (AddParameter): Name = "CommentText"; Value = ""??????""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://pcbdesigner.ru/downloads/connectors/EHK2V-XXP-DINKLE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Dinkle Enterprise"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EHK2V-02P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 9.53mm, 300VAC, 25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X4(EHK2V-02P)
+Add component (AddParameter): Name = "CommentText"; Value = ""??????""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://pcbdesigner.ru/downloads/connectors/EHK2V-XXP-DINKLE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Dinkle Enterprise"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EHK2V-02P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 9.53mm, 300VAC, 25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=C5-2
+Added Pin To Net: NetName=Net*1_1 Pin=R3-1
+Added Pin To Net: NetName=Net*1_1 Pin=VD2-1
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=Net*1_2 Pin=C1-1
+Added Pin To Net: NetName=Net*1_2 Pin=C2-2
+Added Pin To Net: NetName=Net*1_2 Pin=R1-2
+Added Pin To Net: NetName=Net*1_2 Pin=R2-2
+Added Pin To Net: NetName=Net*1_2 Pin=X1-1
+Added Net: Name=Net*1_2
+Added Pin To Net: NetName=Net*1_3 Pin=*1-3
+Added Pin To Net: NetName=Net*1_3 Pin=R5-2
+Added Pin To Net: NetName=Net*1_3 Pin=VD4-1
+Added Pin To Net: NetName=Net*1_3 Pin=VD5-1
+Added Net: Name=Net*1_3
+Added Pin To Net: NetName=Net*2_1 Pin=*2-1
+Added Pin To Net: NetName=Net*2_1 Pin=*3-1
+Added Pin To Net: NetName=Net*2_1 Pin=R4-1
+Added Net: Name=Net*2_1
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=C7-1
+Added Pin To Net: NetName=Net*2_2 Pin=R6-2
+Added Pin To Net: NetName=Net*2_2 Pin=R10-2
+Added Net: Name=Net*2_2
+Added Pin To Net: NetName=Net*2_3 Pin=*2-3
+Added Pin To Net: NetName=Net*2_3 Pin=*4-2
+Added Pin To Net: NetName=Net*2_3 Pin=*5-3
+Added Pin To Net: NetName=Net*2_3 Pin=C11-1
+Added Pin To Net: NetName=Net*2_3 Pin=C12-2
+Added Pin To Net: NetName=Net*2_3 Pin=R11-1
+Added Pin To Net: NetName=Net*2_3 Pin=X4-1
+Added Net: Name=Net*2_3
+Added Pin To Net: NetName=Net*3_2 Pin=*3-2
+Added Pin To Net: NetName=Net*3_2 Pin=C6-2
+Added Pin To Net: NetName=Net*3_2 Pin=R7-2
+Added Net: Name=Net*3_2
+Added Pin To Net: NetName=Net*3_3 Pin=*3-3
+Added Pin To Net: NetName=Net*3_3 Pin=*5-1
+Added Pin To Net: NetName=Net*3_3 Pin=C9-1
+Added Pin To Net: NetName=Net*3_3 Pin=R11-2
+Added Net: Name=Net*3_3
+Added Pin To Net: NetName=Net*4_1 Pin=*4-1
+Added Pin To Net: NetName=Net*4_1 Pin=*5-2
+Added Pin To Net: NetName=Net*4_1 Pin=C5-1
+Added Pin To Net: NetName=Net*4_1 Pin=C7-2
+Added Pin To Net: NetName=Net*4_1 Pin=C9-2
+Added Pin To Net: NetName=Net*4_1 Pin=VD8-2
+Added Net: Name=Net*4_1
+Added Pin To Net: NetName=Net*4_3 Pin=*4-3
+Added Pin To Net: NetName=Net*4_3 Pin=R9-1
+Added Pin To Net: NetName=Net*4_3 Pin=VD6-2
+Added Pin To Net: NetName=Net*4_3 Pin=VD7-2
+Added Net: Name=Net*4_3
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R1-1
+Added Pin To Net: NetName=NetC3_2 Pin=R4-2
+Added Pin To Net: NetName=NetC3_2 Pin=VD1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R2-1
+Added Pin To Net: NetName=NetC4_1 Pin=R3-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R5-1
+Added Pin To Net: NetName=NetC4_2 Pin=R6-1
+Added Pin To Net: NetName=NetC4_2 Pin=R8-2
+Added Pin To Net: NetName=NetC4_2 Pin=R9-2
+Added Pin To Net: NetName=NetC4_2 Pin=VD4-2
+Added Pin To Net: NetName=NetC4_2 Pin=VD5-2
+Added Pin To Net: NetName=NetC4_2 Pin=VD6-1
+Added Pin To Net: NetName=NetC4_2 Pin=VD7-1
+Added Pin To Net: NetName=NetC4_2 Pin=X3-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=X2-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R8-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=R10-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetVD2_2 Pin=VD2-2
+Added Pin To Net: NetName=NetVD2_2 Pin=VD3-1
+Added Net: Name=NetVD2_2
+Added Pin To Net: NetName=NetVD3_2 Pin=VD3-2
+Added Pin To Net: NetName=NetVD3_2 Pin=VD8-1
+Added Net: Name=NetVD3_2
+Added Class: Name=SchemeGOST

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC11_1 Pin=X4-1
+Removed Pin From Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X4-1
+Added Pin To Net: NetName=NetC11_1 Pin=X4-2
+Change Net Color : Old Net Color=RGB(59, 178, 83) New Net Color=Default
+Change Net Color : Old Net Color=Blue New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 191, 191) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 27, 49) New Net Color=Default
