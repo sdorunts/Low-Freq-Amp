@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R4 Old Footprint=Res 2W New Footprint=Res 5W
+Change Component Footprint: Designator=R6 Old Footprint=Res 2W New Footprint=Res 5W
+Added Member To Class: ClassName=SchemeGOST Member=Component R1 Resistor 1W
+Added Member To Class: ClassName=SchemeGOST Member=Component R4 Resistor 5W
+Added Member To Class: ClassName=SchemeGOST Member=Component R5 Resistor 0.25W
+Added Member To Class: ClassName=SchemeGOST Member=Component R6 Resistor 5W
+Added Member To Class: ClassName=SchemeGOST Member=Component R8 Resistor 0.25W
+Added Member To Class: ClassName=SchemeGOST Member=Component R10 Resistor 10W
+Added Member To Class: ClassName=SchemeGOST Member=Component R11 Resistor 0.25W

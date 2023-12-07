@@ -1,0 +1,6 @@
+ lib="C:\Program Files\Orcad\Capture\Library\PSpice\diode.lib", offset=18135, size=72
+ lib="C:\Program Files\Orcad\Capture\Library\PSpice\ebipolar.lib", offset=10931, size=366
+ lib="C:\Program Files\Orcad\Capture\Library\PSpice\pwrbjt.lib", offset=251588, size=344
+ lib="C:\Program Files\Orcad\Capture\Library\PSpice\darlngtn.lib", offset=70105, size=980
+ lib="C:\Program Files\Orcad\Capture\Library\PSpice\darlngtn.lib", offset=68953, size=1153
+ lib="C:\Program Files\Orcad\Capture\Library\PSpice\diode.lib", offset=13853, size=213

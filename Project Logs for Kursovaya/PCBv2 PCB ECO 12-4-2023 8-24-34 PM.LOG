@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=T3 NewDesignator=T2
+Change Component Designator: OldDesignator=T4 NewDesignator=T3
+Change Component Designator: OldDesignator=T5 NewDesignator=T4
+Change Component Designator: OldDesignator=T7 NewDesignator=T5
+Change Component Designator: OldDesignator=VD7 NewDesignator=VD3
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD4
+Change Component Designator: OldDesignator=VD13 NewDesignator=VD5
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetVD7_2 New Net Name=NetVD3_2
+Change Net Name : Old Net Name=NetVD12_2 New Net Name=NetVD4_2
+Added Member To Class: ClassName=SchemeGOST Member=Component R5 Resistor 10W
+Added Member To Class: ClassName=SchemeGOST Member=Component R8 Resistor 2W

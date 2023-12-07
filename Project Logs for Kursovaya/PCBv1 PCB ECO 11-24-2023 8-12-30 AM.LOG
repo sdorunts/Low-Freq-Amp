@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=R3-1
+Removed Pin From Net: NetName=NetC4_1 Pin=R3-2
+Removed Pin From Net: NetName=NetC4_2 Pin=R6-1
+Removed Pin From Net: NetName=NetC7_1 Pin=R6-2
+Change Component Footprint: Designator=C12 Old Footprint=Cap 1u/63V New Footprint=Cap 220U/100V
+Change Component Footprint: Designator=C11 Old Footprint=Cap 220U/100V New Footprint=Cap 1u/63V
+Change Component Footprint: Designator=R8 Old Footprint=Res 0.25W New Footprint=Res 1W
+Change Component Comment : Designator=C12 Old Comment=1uF/63V New Comment=220uF/100V
+Change Component Comment : Designator=C11 Old Comment=220uF/100V New Comment=1uF/63V
+Change Component Comment : Designator=VD2 Old Comment=Diode (1N4001) New Comment=Diode 1N4001
+Change Component Comment : Designator=VD3 Old Comment=Diode (1N4001) New Comment=Diode 1N4001
+Change Component Comment : Designator=VD8 Old Comment=Diode (1N4001) New Comment=Diode 1N4001
+Change Component Comment : Designator=R8 Old Comment=Resistor 0.25W New Comment=Resistor 1W
+Added Pin To Net: NetName=NetC4_1 Pin=R3-1
+Added Pin To Net: NetName=NetC5_2 Pin=R3-2
+Added Pin To Net: NetName=NetC7_1 Pin=R6-1
+Added Pin To Net: NetName=NetC4_2 Pin=R6-2
+Change Net Color : Old Net Color=RGB(240, 255, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(22, 79, 59) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=Aqua New Net Color=Default

@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=R5-1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Added Component: Designator=R4(Res 2W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Res 2W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=R6-2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=T1-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R6-1
+Added Net: Name=NetR4_2
+Added Member To Class: ClassName=SchemeGOST Member=Component R5 Resistor 0.25W
+Added Member To Class: ClassName=SchemeGOST Member=Component R6 Resistor 5W
+Added Member To Class: ClassName=SchemeGOST Member=Component R7 Resistor 0.25W
+Added Member To Class: ClassName=SchemeGOST Member=Component R8 Resistor 0.25W
+Added Member To Class: ClassName=SchemeGOST Member=Component R9 Resistor 2W
+Added Member To Class: ClassName=SchemeGOST Member=Component R10 Resistor 10W
+Added Member To Class: ClassName=SchemeGOST Member=Component R11 Resistor 0.25W
+Added Member To Class: ClassName=SchemeGOST Member=Component R13 Resistor 0.25W
+Added Member To Class: ClassName=SchemeGOST Member=Component T2 BC556B
+Added Member To Class: ClassName=SchemeGOST Member=Component T3 BC556B
+Added Member To Class: ClassName=SchemeGOST Member=Component T5 BD241C
+Added Member To Class: ClassName=SchemeGOST Member=Component VD3 Diode 1N4001
+Added Member To Class: ClassName=SchemeGOST Member=Component VD4 Diode 1N4001
+Added Member To Class: ClassName=SchemeGOST Member=Component VD5 Diode 1N4001

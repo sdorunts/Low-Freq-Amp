@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=R5-1
+Removed Pin From Net: NetName=NetC4_2 Pin=R6-1
+Removed Pin From Net: NetName=NetC8_2 Pin=R9-1
+Removed Pin From Net: NetName=NetC4_2 Pin=R9-2
+Removed Pin From Net: NetName=NetC4_2 Pin=R10-2
+Removed Pin From Net: NetName=NetC4_2 Pin=R11-2
+Removed Pin From Net: NetName=NetC5_2 Pin=T2-1
+Removed Pin From Net: NetName=NetC1_1 Pin=T2-2
+Removed Pin From Net: NetName=NetC5_1 Pin=T6-1
+Removed Pin From Net: NetName=NetC11_2 Pin=T6-2
+Removed Pin From Net: NetName=NetC4_2 Pin=VD3-2
+Removed Pin From Net: NetName=NetC4_2 Pin=VD4-2
+Removed Pin From Net: NetName=NetC4_2 Pin=VD5-2
+Removed Pin From Net: NetName=NetC4_2 Pin=VD6-2
+Removed Pin From Net: NetName=NetC4_2 Pin=VD8-1
+Removed Pin From Net: NetName=NetC4_2 Pin=VD9-1
+Removed Pin From Net: NetName=NetC4_2 Pin=VD10-1
+Removed Pin From Net: NetName=NetC4_2 Pin=VD11-1
+Removed Member From Class: ClassName=SchemeGOST Member=R5
+Removed Member From Class: ClassName=SchemeGOST Member=R6
+Removed Member From Class: ClassName=SchemeGOST Member=R9
+Removed Member From Class: ClassName=SchemeGOST Member=R10
+Removed Member From Class: ClassName=SchemeGOST Member=R11
+Removed Member From Class: ClassName=SchemeGOST Member=T2
+Removed Member From Class: ClassName=SchemeGOST Member=T6
+Removed Member From Class: ClassName=SchemeGOST Member=VD3
+Removed Member From Class: ClassName=SchemeGOST Member=VD4
+Removed Member From Class: ClassName=SchemeGOST Member=VD5
+Removed Member From Class: ClassName=SchemeGOST Member=VD6
+Removed Member From Class: ClassName=SchemeGOST Member=VD8
+Removed Member From Class: ClassName=SchemeGOST Member=VD9
+Removed Member From Class: ClassName=SchemeGOST Member=VD10
+Removed Member From Class: ClassName=SchemeGOST Member=VD11
+Added Component: Designator=R?(Res 2W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res 10W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Res 10W)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "????????"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=R?-1
+Added Pin To Net: NetName=NetC8_2 Pin=R?-1
+Added Pin To Net: NetName=NetC4_2 Pin=R?-2
+Added Pin To Net: NetName=NetC4_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=T5-3
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=T1-3
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=SchemeGOST Member=Component R? Resistor 2W
+Added Member To Class: ClassName=SchemeGOST Member=Component R? Resistor 10W
+Added Member To Class: ClassName=SchemeGOST Member=Component R? Resistor 10W

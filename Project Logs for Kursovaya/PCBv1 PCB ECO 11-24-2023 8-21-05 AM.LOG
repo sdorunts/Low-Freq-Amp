@@ -1,0 +1,40 @@
+Change Physical Footprint: Designator=C1 Old Footprint=Cap 220U/100V New Footprint=Cap 220U/100V
+Change Physical Footprint: Designator=C2 Old Footprint=Cap 1u/63V New Footprint=Cap 1u/63V
+Change Physical Footprint: Designator=C3 Old Footprint=Cap 220nF New Footprint=Cap 220nF
+Change Physical Footprint: Designator=C4 Old Footprint=Cap 220U/100V New Footprint=Cap 220U/100V
+Change Physical Footprint: Designator=C5 Old Footprint=Cap 470n New Footprint=Cap 470n
+Change Physical Footprint: Designator=C6 Old Footprint=Cap 10u/25V New Footprint=Cap 10u/25V
+Change Physical Footprint: Designator=C7 Old Footprint=Cap 220p New Footprint=Cap 220p
+Change Physical Footprint: Designator=C8 Old Footprint=Cap 100n/100V New Footprint=Cap 100n/100V
+Change Physical Footprint: Designator=C9 Old Footprint=Cap 100p New Footprint=Cap 100p
+Change Physical Footprint: Designator=C10 Old Footprint=Cap 470u/10V New Footprint=Cap 470u/10V
+Change Physical Footprint: Designator=C11 Old Footprint=Cap 1u/63V New Footprint=Cap 1u/63V
+Change Physical Footprint: Designator=C12 Old Footprint=Cap 220U/100V New Footprint=Cap 220U/100V
+Change Physical Footprint: Designator=R1 Old Footprint=Res 1W New Footprint=Res 1W
+Change Physical Footprint: Designator=R2 Old Footprint=Res 1W New Footprint=Res 1W
+Change Physical Footprint: Designator=R3 Old Footprint=Res 1W New Footprint=Res 1W
+Change Physical Footprint: Designator=R4 Old Footprint=Res 0.25W New Footprint=Res 0.25W
+Change Physical Footprint: Designator=R5 Old Footprint=Res 1W New Footprint=Res 1W
+Change Physical Footprint: Designator=R6 Old Footprint=Res 0.25W New Footprint=Res 0.25W
+Change Physical Footprint: Designator=R7 Old Footprint=Res 0.25W New Footprint=Res 0.25W
+Change Physical Footprint: Designator=R8 Old Footprint=Res 1W New Footprint=Res 1W
+Change Physical Footprint: Designator=R9 Old Footprint=Res 1W New Footprint=Res 1W
+Change Physical Footprint: Designator=R10 Old Footprint=Res 0.25W New Footprint=Res 0.25W
+Change Physical Footprint: Designator=R11 Old Footprint=Res 0.25W New Footprint=Res 0.25W
+Change Physical Footprint: Designator=T1 Old Footprint=TO-247 New Footprint=TO-247
+Change Physical Footprint: Designator=T2 Old Footprint=TO-92-A New Footprint=TO-92-A
+Change Physical Footprint: Designator=T3 Old Footprint=TO-92-A New Footprint=TO-92-A
+Change Physical Footprint: Designator=T4 Old Footprint=TO-247 New Footprint=TO-247
+Change Physical Footprint: Designator=T5 Old Footprint=TO-220 New Footprint=TO-220
+Change Physical Footprint: Designator=VD1 Old Footprint=DO-35 New Footprint=DO-35
+Change Physical Footprint: Designator=VD2 Old Footprint=DO-41 New Footprint=DO-41
+Change Physical Footprint: Designator=VD3 Old Footprint=DO-41 New Footprint=DO-41
+Change Physical Footprint: Designator=VD4 Old Footprint=DO-27 New Footprint=DO-27
+Change Physical Footprint: Designator=VD5 Old Footprint=DO-27 New Footprint=DO-27
+Change Physical Footprint: Designator=VD6 Old Footprint=DO-27 New Footprint=DO-27
+Change Physical Footprint: Designator=VD7 Old Footprint=DO-27 New Footprint=DO-27
+Change Physical Footprint: Designator=VD8 Old Footprint=DO-41 New Footprint=DO-41
+Change Physical Footprint: Designator=X1 Old Footprint=EHK2V-02P New Footprint=EHK2V-02P
+Change Physical Footprint: Designator=X2 Old Footprint=EHK2V-02P New Footprint=EHK2V-02P
+Change Physical Footprint: Designator=X3 Old Footprint=EHK2V-02P New Footprint=EHK2V-02P
+Change Physical Footprint: Designator=X4 Old Footprint=EHK2V-02P New Footprint=EHK2V-02P

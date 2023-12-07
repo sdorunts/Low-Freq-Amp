@@ -1,0 +1,23 @@
+* C:\Users\sdorunts\Desktop\BMSTU Altium\Low-Freq-Amp\Simulation\Scheme_Sim.sch
+
+* Schematics Version 9.2
+* Thu Dec 07 14:44:53 2023
+
+
+.PARAM         Rn=3 Vhigh=50mV Vlow=-50mV
+
+** Analysis setup **
+.ac DEC 101 1 100T
+.OP 
+
+
+* From [PSPICE NETLIST] section of C:\Program Files\Orcad\PSpice\PSpice.ini:
+.lib "nom.lib"
+
+.INC "Scheme_Sim.net"
+
+
+.PROBE V(*) I(*) W(*) D(*) NOISE(*) 
+
+
+.END
