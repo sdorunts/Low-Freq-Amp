@@ -1,13 +1,13 @@
 * C:\Users\sdorunts\Desktop\BMSTU Altium\Low-Freq-Amp\Simulation\Scheme_Sim.sch
 
 * Schematics Version 9.2
-* Thu Dec 07 14:44:53 2023
+* Thu Dec 07 23:09:19 2023
 
 
 .PARAM         Rn=3 Vhigh=50mV Vlow=-50mV
 
 ** Analysis setup **
-.ac DEC 101 1 100T
+.tran 0ns 200us 0 200ns
 .OP 
 
 

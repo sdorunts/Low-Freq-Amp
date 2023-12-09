@@ -1,5 +1,5 @@
-
-**** 12/07/23 14:44:53 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
+
+**** 12/07/23 23:09:22 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
 
  * C:\Users\sdorunts\Desktop\BMSTU Altium\Low-Freq-Amp\Simulation\Scheme_Sim.sch
 
@@ -13,13 +13,13 @@
 
 
 * Schematics Version 9.2
-* Thu Dec 07 14:44:53 2023
+* Thu Dec 07 23:09:19 2023
 
 
 .PARAM         Rn=3 Vhigh=50mV Vlow=-50mV
 
 ** Analysis setup **
-.ac DEC 101 1 100T
+.tran 0ns 200us 0 200ns
 .OP 
 
 
@@ -48,36 +48,40 @@ C_C20         $N_0003 $N_0005  100p
 X_Q12         $N_0008 $N_0005 $N_0014 TIP147
 C_C21         0 $N_0015  1u  
 C_C22         0 $N_0015  220u  
-C_C26         $N_0008 0  1u  
-C_C27         $N_0008 0  220u  
-R_R21         $N_0016 $N_0012  1  
 R_R26         $N_0010 $N_0015  2.2k  
-X_Q11         $N_0015 $N_0011 $N_0017 TIP142
+X_Q11         $N_0015 $N_0011 $N_0016 TIP142
 R_R22         $N_0013 $N_0015  1k  
 R_R20         $N_0013 $N_0011  1k  
 R_R29         0 $N_0002  22k  
-D_D57         $N_0018 $N_0019 D1N4007 
-D_D56         $N_0020 $N_0018 D1N4007 
-D_D55         $N_0011 $N_0020 D1N4007 
+D_D57         $N_0017 $N_0018 D1N4007 
+D_D56         $N_0019 $N_0017 D1N4007 
+D_D55         $N_0011 $N_0019 D1N4007 
 R_R25         $N_0009 $N_0007  100  
 R_R28         $N_0007 $N_0012  8.2k  
-C_C25         0 $N_0016  100n  
-R_R23         $N_0012 $N_0017  0.44  
+R_R23         $N_0012 $N_0016  0.44  
 R_R24         $N_0014 $N_0012  0.33  
 C_C28         $N_0008 $N_0006  10u  
-D_D58         $N_0019 $N_0005 D1N4007 
-R_R41         $N_0021 0  1k  
+D_D58         $N_0018 $N_0005 D1N4007 
+R_R41         $N_0020 0  1k  
 C_C16         0 $N_0010  220n  
-R_R42         0 $N_0012  {Rn}  
 R_R30         $N_0008 $N_0003  733  
 V_V8         $N_0015 0 20V
 V_V9         0 $N_0008 20V
 R_R31         $N_0008 $N_0006  33  
-V_V16         $N_0021 0 DC 0 AC 0
+V_V16         $N_0020 0 DC 0 AC 0
 +PULSE -50mV 50mV 0 0 0 50us 100us
-V_V17         $N_0001 0 DC 0 AC 50mV
-+SIN 0 50mV 1k 0 0 0
 C_C30         $N_0007 $N_0005  220p  
+R_R21         $N_0021 $N_0012  1  
+C_C25         0 $N_0021  100n  
+C_C27         $N_0008 0  220u  
+C_C26         $N_0008 0  1u  
+L_L1         $N_0012 $N_0022  12.5m  
+C_C32         $N_0022 $N_0012  800u  
+R_R43         $N_0022 $N_0012  18  
+L_L2         $N_0022 $N_0023  0.3m  
+R_R44         0 $N_0023  3  
+V_V17         $N_0001 0 DC 0 AC 50mV
++SIN 0 50mV 50k 0 0 0
 
 **** RESUMING Scheme_Sim.cir ****
 .PROBE V(*) I(*) W(*) D(*) NOISE(*) 
@@ -85,7 +89,7 @@ C_C30         $N_0007 $N_0005  220p
 
 .END
 
-**** 12/07/23 14:44:53 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
+**** 12/07/23 23:09:22 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
 
  * C:\Users\sdorunts\Desktop\BMSTU Altium\Low-Freq-Amp\Simulation\Scheme_Sim.sch
 
@@ -112,7 +116,7 @@ C_C30         $N_0007 $N_0005  220p
            M     .44             .44             .3333           .3333       
 
 
-**** 12/07/23 14:44:53 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
+**** 12/07/23 23:09:22 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
 
  * C:\Users\sdorunts\Desktop\BMSTU Altium\Low-Freq-Amp\Simulation\Scheme_Sim.sch
 
@@ -190,7 +194,7 @@ C_C30         $N_0007 $N_0005  220p
            D     .87             .87         
 
 
-**** 12/07/23 14:44:53 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
+**** 12/07/23 23:09:22 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
 
  * C:\Users\sdorunts\Desktop\BMSTU Altium\Low-Freq-Amp\Simulation\Scheme_Sim.sch
 
@@ -219,13 +223,15 @@ C_C30         $N_0007 $N_0005  220p
 
 ($N_0013)   10.6840                   ($N_0014)    -.0796                       
 
-($N_0015)   20.0000                   ($N_0016)    -.0058                       
+($N_0015)   20.0000                   ($N_0016)     .0917                       
 
-($N_0017)     .0917                   ($N_0018)    -.0021                       
+($N_0017)    -.0021                   ($N_0018)    -.6875                       
 
-($N_0019)    -.6875                   ($N_0020)     .6832                       
+($N_0019)     .6832                   ($N_0020)    0.0000                       
 
-($N_0021)    0.0000                   (X_Q11.4)     .7732                       
+($N_0021)    -.0058                   ($N_0022)    -.0058                       
+
+($N_0023)    -.0058                   (X_Q11.4)     .7732                       
 
 (X_Q12.4)    -.7374                   
 
@@ -244,7 +250,7 @@ C_C30         $N_0007 $N_0005  220p
     TOTAL POWER DISSIPATION   9.42E+00  WATTS
 
 
-**** 12/07/23 14:44:53 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
+**** 12/07/23 23:09:22 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
 
  * C:\Users\sdorunts\Desktop\BMSTU Altium\Low-Freq-Amp\Simulation\Scheme_Sim.sch
 
@@ -341,9 +347,65 @@ BETAAC       1.57E+02
 CBX/CBX2     0.00E+00             
 FT/FT2       5.46E+06             
 
+
+**** 12/07/23 23:09:22 ********* PSpice 9.2 (Mar 2000) ******** ID# 0 ********
+
+ * C:\Users\sdorunts\Desktop\BMSTU Altium\Low-Freq-Amp\Simulation\Scheme_Sim.sch
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+($N_0001)    0.0000                   ($N_0002)     .0710                       
+
+($N_0003)  -19.1280                   ($N_0004)     .7844                       
+
+($N_0005)   -1.3729                   ($N_0006)  -19.6940                       
+
+($N_0007)     .0511                   ($N_0008)  -20.0000                       
+
+($N_0009)     .0511                   ($N_0010)   12.0000                       
+
+($N_0011)    1.3686                   ($N_0012)    -.0058                       
+
+($N_0013)   10.6840                   ($N_0014)    -.0796                       
+
+($N_0015)   20.0000                   ($N_0016)     .0917                       
+
+($N_0017)    -.0021                   ($N_0018)    -.6875                       
+
+($N_0019)     .6832                   ($N_0020)    -.0500                       
+
+($N_0021)    -.0058                   ($N_0022)    -.0058                       
+
+($N_0023)    -.0058                   (X_Q11.4)     .7732                       
+
+(X_Q12.4)    -.7374                   
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V7        -5.176E-04
+    V_V8        -2.341E-01
+    V_V9        -2.366E-01
+    V_V16        5.000E-05
+    V_V17        0.000E+00
+
+    TOTAL POWER DISSIPATION   9.42E+00  WATTS
+
 
 
           JOB CONCLUDED
 
-          TOTAL JOB TIME             .11
+          TOTAL JOB TIME             .13
 
