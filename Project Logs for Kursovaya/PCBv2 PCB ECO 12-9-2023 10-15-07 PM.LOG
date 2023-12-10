@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=NetC11_2 Pin=C11-2
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Added Component: Designator=C13(Cap 1u/63V)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "???????????"; VariantName = "[No Variations]"
+Added Component: Designator=XS4(15EDGRC-3.81-02P)
+Added Component: Designator=XS5(15EDGRC-3.81-03P)
+Added Component: Designator=XS6(15EDGRC-3.81-02P)
+Added Component: Designator=XS7(15EDGRC-3.81-02P)
+Added Component: Designator=XS8(15EDGRC-3.81-02P)
+Added Component: Designator=XS10(15EDGRC-3.81-02P)
+Added Component: Designator=XS11(ST-025)
+Added Component: Designator=XS?(ST-025)
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC11_2 Pin=C13-2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC11_1
+Added Pin To Net: NetName=NetXS4_1 Pin=XS4-1
+Added Pin To Net: NetName=NetXS4_1 Pin=XS5-1
+Added Net: Name=NetXS4_1
+Added Pin To Net: NetName=NetXS4_2 Pin=XS4-2
+Added Pin To Net: NetName=NetXS4_2 Pin=XS5-2
+Added Pin To Net: NetName=NetXS4_2 Pin=XS8-1
+Added Net: Name=NetXS4_2
+Added Pin To Net: NetName=NetXS5_3 Pin=XS5-3
+Added Pin To Net: NetName=NetXS5_3 Pin=XS8-2
+Added Net: Name=NetXS5_3
+Added Pin To Net: NetName=NetXS6_1 Pin=XS6-1
+Added Pin To Net: NetName=NetXS6_1 Pin=XS7-1
+Added Pin To Net: NetName=NetXS6_1 Pin=XS10-1
+Added Net: Name=NetXS6_1
+Added Pin To Net: NetName=NetXS6_2 Pin=XS6-2
+Added Pin To Net: NetName=NetXS6_2 Pin=XS7-2
+Added Pin To Net: NetName=NetXS6_2 Pin=XS10-2
+Added Net: Name=NetXS6_2
+Added Pin To Net: NetName=NetXS11_1 Pin=XS11-1
+Added Pin To Net: NetName=NetXS11_1 Pin=XS11-1
+Added Pin To Net: NetName=NetXS11_1 Pin=XS?-1
+Added Pin To Net: NetName=NetXS11_1 Pin=XS?-1
+Added Net: Name=NetXS11_1
+Added Pin To Net: NetName=NetXS11_3 Pin=XS11-3
+Added Pin To Net: NetName=NetXS11_3 Pin=XS?-3
+Added Net: Name=NetXS11_3
+Change Class Name : Old Net Name=SchemeGOST New Net Name=?3?1
+Added Class: Name=??
