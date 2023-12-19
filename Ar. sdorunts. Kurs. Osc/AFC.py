@@ -1,13 +1,12 @@
 import math
 
-input_file = open("AFC_data.txt", 'r')
+input_file = open("AFC_data1.txt", 'r')
 
 frequency = []
 dB = []
 
 for string in input_file.readlines():
-    freq, pAmp, mAmp = map(float, string.split())
-    Amp = (pAmp - mAmp) / 2
+    freq, Amp= map(float, string.split())
     frequency.append(freq)
     dB.append(20 * math.log10(Amp / 0.05))
 

@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EUKBHBKO
 
 [Document5]
-DocumentPath=Project Outputs for Kursovaya\Job1.OutJob
+DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,7 +168,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FEXHCAEH
 
 [Document8]
-DocumentPath=ИС.SchDoc
+DocumentPath=ПД1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
